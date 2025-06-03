@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Prince 👋
 
-<!--
-**buildwithprince/Buildwithprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA in Blockchain Technology  
+🧱 Building real DApps using Solidity & Ethers.js  
+💻 Currently learning: Fullstack Web3  
+📢 Sharing everything I build → [LinkedIn](https://linkedin.com/in/buildwithprince)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Web3 Journey:
+- 🛠️ Built my first DApp using Remix & MetaMask
+- 🔒 Learning Smart Contracts, NFTs & DAOs
+- 📦 Deploying projects live on GitHub
+
+Stay tuned as I grow from **student → blockchain dev**.  
+Let's `build with Prince` 🧡
+
